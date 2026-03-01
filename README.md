@@ -45,16 +45,11 @@ This repository contains a **fully working, production-ready web application pro
 
 ## 📸 Screenshots / Images
 
-*(Note during review: Add actual screenshots from your deployed app or localhost here)*
-
 ### 1. Authentication Screen
-![Authentication Screen Placeholder](https://via.placeholder.com/800x400.png?text=Authentication+Screen)
+![Authentication Screen](./screenshots/auth.png)
 
 ### 2. Main Dashboard & Chat
-![Main Dashboard Placeholder](https://via.placeholder.com/800x400.png?text=Main+Dashboard)
-
-### 3. AI Analysis Results & Risk Meter
-![Analysis Results Placeholder](https://via.placeholder.com/800x400.png?text=AI+Analysis+Cards+and+Risk+Meter)
+![Main Dashboard](./screenshots/dashboard.png)
 
 ---
 
