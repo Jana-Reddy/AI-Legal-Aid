@@ -124,3 +124,9 @@ To test the application on your own machine:
    ```
 
 6. Open [http://localhost:3000](http://localhost:3000) in your browser.
+
+---
+
+## 👥 Contributors
+
+- **Jana Reddy** - [@Jana-Reddy](https://github.com/Jana-Reddy)
