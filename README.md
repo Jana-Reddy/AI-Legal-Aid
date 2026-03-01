@@ -43,6 +43,14 @@ This repository contains a **fully working, production-ready web application pro
 
 ---
 
+## 🎥 Video Demonstration
+
+Watch the full walkthrough of the application:
+- **[YouTube Video](https://youtu.be/8v8fQqGGslE?si=7Qp79hVODCh5VKQp)**
+- **[Google Drive Link](https://drive.google.com/file/d/18WdIx-5VPis1aXKzTb4xLQ26VzrPvfls/view?usp=sharing)**
+
+---
+
 ## 📸 Screenshots / Images
 
 ### 1. Authentication Screen
